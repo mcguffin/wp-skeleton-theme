@@ -1,0 +1,2 @@
+WP Skeleton Theme Core
+======================
